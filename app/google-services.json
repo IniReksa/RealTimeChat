@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "749774777202",
+    "firebase_url": "https://realtimechatane.firebaseio.com",
+    "project_id": "realtimechatane",
+    "storage_bucket": "realtimechatane.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749774777202:android:43135ce6ff9bc05b",
+        "android_client_info": {
+          "package_name": "com.example.reksa.realtimechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749774777202-69ng1dkt58emo5mh2du65unt12spunut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reksa.realtimechat",
+            "certificate_hash": "81ae8c9d72388d47bfbde3145ab1fd89859d58e3"
+          }
+        },
+        {
+          "client_id": "749774777202-2f0ssti26mlac727sg5ol8otqsepm7fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkC4mP8C4lrfDnDBNainMaTNh3IBLdfF8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749774777202-2f0ssti26mlac727sg5ol8otqsepm7fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
